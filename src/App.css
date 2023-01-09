@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.image {
+  height: 100px;
+}
+
+.trophy {
+  height: 30px;
+}
